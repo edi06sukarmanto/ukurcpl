@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+uploaded_files/
+users/
+*.xlsx
+*.xls
+*.pdf
+*.doc
+*.docx
+.venv/
+venv/
